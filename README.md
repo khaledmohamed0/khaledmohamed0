@@ -3,9 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khaled mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled mohamed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khaled mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khaled mohamed" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@khmo492007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khmo492007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-mohamed-7a745a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaled-mohamed-7a745a26b/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/khmo492007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khmo492007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
